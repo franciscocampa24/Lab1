@@ -8,6 +8,9 @@ import org.testng.Assert;
  * @version 5.0
  * converted into testng tests by Shane McDonough <shane.mcdonough723@csuci.edu>
  */
+public static void main(String[] args) {
+
+}
 public class CounterTest
 {
 
